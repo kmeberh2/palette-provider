@@ -44,7 +44,8 @@
             <SeekBar
                 android:layout_width="300dp"
                 android:layout_height="50dp"
-                android:progress="70"
+                android:max="510"
+                android:progress="225"
                 android:theme ="@style/Button"
                 android:thumbTint="#15311e"
                 android:layout_gravity="center"
